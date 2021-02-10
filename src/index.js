@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {Canvas} from 'react-three-fiber'
 import './index.css';
-import App from './App';
+import Text from './components/Text';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Canvas 
+    camera = {{position: [0, 0, 30]}}
+    style = {{height: '100vh', width: '100vw'}}
+  >
+    <Text />
+  </Canvas>,
   document.getElementById('root')
 );
-
