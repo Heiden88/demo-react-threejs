@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/demo-react-threejs/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/demo-react-threejs/static/js/main.345d3849.chunk.js",
+    "main.js.map": "/demo-react-threejs/static/js/main.345d3849.chunk.js.map",
+    "runtime-main.js": "/demo-react-threejs/static/js/runtime-main.03c06e0c.js",
+    "runtime-main.js.map": "/demo-react-threejs/static/js/runtime-main.03c06e0c.js.map",
+    "static/js/2.85f852ce.chunk.js": "/demo-react-threejs/static/js/2.85f852ce.chunk.js",
+    "static/js/2.85f852ce.chunk.js.map": "/demo-react-threejs/static/js/2.85f852ce.chunk.js.map",
+    "index.html": "/demo-react-threejs/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/demo-react-threejs/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.85f852ce.chunk.js.LICENSE.txt": "/demo-react-threejs/static/js/2.85f852ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03c06e0c.js",
+    "static/js/2.85f852ce.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.345d3849.chunk.js"
+  ]
+}
